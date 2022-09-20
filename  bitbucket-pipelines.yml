@@ -1,0 +1,18 @@
+image: bitnami/git
+pipelines:
+  default:
+    - step: 
+        script:
+          - apt-get update
+          - apt-get -qq install ruby-full build-essential zlib1g-dev
+          - apt install --assume-yes --no-install-recommends git openssh-client
+          - gem install jekyll bundler
+          - bundle update
+          - bundle exec jekyll build 
+          - git config --global user.name bitbucket-pipelines
+          - git config --global user.email commits-noreply@bitbucket.org
+          - git clone git@bitbucket.org/altmattr/csall.bitbucket.io.git for_upload
+          - cp -R _site for_upload
+          - git add -A
+          - git commit -m "pipeline-commit $(date)"
+          - git push

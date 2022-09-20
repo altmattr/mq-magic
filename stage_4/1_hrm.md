@@ -1,0 +1,3 @@
+---
+title: Human Resource Machine
+---

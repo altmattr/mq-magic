@@ -1,0 +1,32 @@
+# Overall title for pages.
+title: "The Path to CS enlightenment (no matter where you start from)"
+
+# Email address, no mailto:
+email: "matthew.roberts@mq.edu.au"
+
+# Files and directories that are not to be copied.
+exclude:
+  - .DSStore
+  
+theme: minimal-mistakes-jekyll
+atom_feed:
+  hide: true
+head_scripts:
+  - h5p_standalone/main.bundle.js
+
+# Turn on built-in syntax highlighting.
+highlighter: rogue
+
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rogue
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+    values:
+      layout: single
+      sidebar:
+        nav: "workshops"

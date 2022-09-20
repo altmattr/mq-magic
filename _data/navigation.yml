@@ -1,0 +1,54 @@
+workshops:
+  - title: About
+    children:
+      - title: "Who is this for?"
+        url: /
+      - title: "Who we are"
+        url: /
+  - title: Stages 1-3
+    children:
+      - title: "Introduction"
+        url: /
+      - title: "Junior Science Academy"
+        url: /
+  - title: Stage 4
+    children:
+      - title: "Introduction"
+        url: /stage_4/0_introduction.html
+      - title: "Human Resource Machine"
+        url: /stage_4/1_hrm.html
+  - title: Stage 5
+    children:
+      - title: "Introduction"
+        url: /stage_5/0_introduction.html
+      - title: "How machine learning works"
+        url: /stage_5/1_expo.html
+  - title: Stage 6
+    children:
+      - title: "Introduction"
+        url: /stage_6/0_introduction.html
+      - title: "Setting up your Pi"
+        url: /stage_6/1_pi_introduction.html
+      - title: "Connecting to SSH"
+        url: /stage_6/2_connecting_ssh.html
+      - title: "Running a Model"
+        url: /stage_6/3_running_model.html
+      - title: "Creating Your Own Model"
+        url: /stage_6/4_creating_model.html
+      - title: "Running Your Own Model"
+        url: /stage_6/5_running_new_model.html
+      - title: "Testing Your Model"
+        url: /stage_6/6_testing_new_model.html
+  - title: Undergraduate
+    children:
+      - title: "Introduction"
+        url: /
+      - title: "Ready for Research"
+        url: /
+  - title: Postgraduate
+    children:
+      - title: "Introduction"
+        url: /
+      - title: "Macquarie Summer Scholarship Program"
+        url: /
+
