@@ -1,0 +1,15 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - name: server
+    command: |
+      apt-get update
+      bundle install
+      bundle exec jekyll serve
+  - name: hosting
+    command: |
+      npm install firebase tools
+
+# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
+ports:
+  - port: 4000
+    onOpen: open-browser

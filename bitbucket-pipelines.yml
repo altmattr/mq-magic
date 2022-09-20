@@ -11,7 +11,7 @@ pipelines:
           - bundle exec jekyll build 
           - git config --global user.name bitbucket-pipelines
           - git config --global user.email commits-noreply@bitbucket.org
-          - git clone git@bitbucket.org/altmattr/csall.bitbucket.io.git for_upload
+          - git clone git@bitbucket.org:altmattr/csall.bitbucket.io.git for_upload
           - cp -R _site for_upload
           - cd for_upload
           - git add -A
