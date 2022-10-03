@@ -7,7 +7,9 @@ tasks:
       bundle exec jekyll serve
   - name: hosting
     command: |
-      npm install -g firebase tools
+      npm install -g firebase-tools
+# firebase login --no-localhost
+# firebase deploy
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:

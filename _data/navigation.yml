@@ -1,22 +1,4 @@
 workshops:
-  - title: About
-    children:
-      - title: "Who is this for?"
-        url: /
-      - title: "Who we are"
-        url: /
-  - title: Stages 1-3
-    children:
-      - title: "Introduction"
-        url: /
-      - title: "Junior Science Academy"
-        url: /
-  - title: Stage 4
-    children:
-      - title: "Introduction"
-        url: /stage_4/0_introduction.html
-      - title: "Human Resource Machine"
-        url: /stage_4/1_hrm.html
   - title: Stage 5
     children:
       - title: "Introduction"
@@ -42,9 +24,13 @@ workshops:
   - title: Undergraduate
     children:
       - title: "Introduction"
-        url: /
-      - title: "Ready for Research"
-        url: /
+        url: /stage_7_undergraduate/introduction.html
+      - title: "Ready for Research (Machine Learning)"
+        url: /stage_7_undergraduate/ready_for_research_ml.html
+      - title: "Ready for Research (Mini Console)"
+        url: /stage_7_undergraduate/ready_for_research_mc.html
+      - title: "Working Lunch - Mentors and Peers"
+        url: /stage_7_undergraduate/working_lunch.html
   - title: Postgraduate
     children:
       - title: "Introduction"
