@@ -34,7 +34,7 @@ workshops:
   - title: Postgraduate
     children:
       - title: "Introduction"
-        url: /
+        url: /stage_8_postgraduate/introduction.html
       - title: "Macquarie Summer Scholarship Program"
-        url: /
+        url: /stage_8_postgraduate/summer.html
 
