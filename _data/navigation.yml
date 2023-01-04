@@ -1,14 +1,34 @@
-workshops:
+main:
+  - title: "About"
+    url: /
+  - title: "Stage 5"
+    url: /stage_5/0_introduction.html
+  - title: "Stage 6"
+    url: /stage_6/0_introduction.html
+  - title: "Undergrad"
+    url: /stage_7_undergraduate/introduction.html
+  - title: "Postgrad"
+    url: /stage_8_postgraduate/introduction.html
+basic:
+  - title: "Title"
+    image: "/assets/images/google_research.png"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: stage5
+stage5:
   - title: Stage 5
     children:
       - title: "Introduction"
         url: /stage_5/0_introduction.html
       - title: "How machine learning works"
         url: /stage_5/1_expo.html
-  - title: Stage 6
+stage6:
+  - title: "Introduction"
+    url: /stage_6/0_introduction.html
+  - title: Worksheets
     children:
-      - title: "Introduction"
-        url: /stage_6/0_introduction.html
       - title: "Setting up your Pi"
         url: /stage_6/1_pi_introduction.html
       - title: "Connecting to SSH"
@@ -21,20 +41,51 @@ workshops:
         url: /stage_6/5_running_new_model.html
       - title: "Testing Your Model"
         url: /stage_6/6_testing_new_model.html
-  - title: Undergraduate
+stage7:
+  - title: "Introduction"
+    url: /stage_7_undergraduate/introduction.html
+  - title: Mini-Console Project
     children:
-      - title: "Introduction"
-        url: /stage_7_undergraduate/introduction.html
-      - title: "Ready for Research (Machine Learning)"
-        url: /stage_7_undergraduate/ready_for_research_ml.html
-      - title: "Ready for Research (Mini Console)"
-        url: /stage_7_undergraduate/ready_for_research_mc.html
-      - title: "Working Lunch - Mentors and Peers"
-        url: /stage_7_undergraduate/working_lunch.html
+      - title: "Road to Research"
+        url: /stage_7_undergraduate/road_to_research.html
+      - title: "Mini Console (Pi)"
+        url: /stage_7_undergraduate/mini_console/setup.html
+      - title: "Mini Console (PC)"
+        url: /stage_7_undergraduate/mini_console/setup_dev.html
+      - title: "Terminal Basics"
+        url: /stage_7_undergraduate/mini_console/terminal.html
+      - title: "Getting code with git"
+        url: /stage_7_undergraduate/mini_console/getting_code.html
+      - title: "Changing Code"
+        url: /stage_7_undergraduate/mini_console/changing_code.html
+      - title: "Getting your work incoporated"
+        url: /stage_7_undergraduate/mini_console/incorporating_code.html
+      - title: "Hacking on complex code"
+        url: /stage_7_undergraduate/mini_console/hacking_code.html
+  - title: Machine Learning Project
+    children:
+      - title: "Road to Research"
+        url: /stage_7_undergraduate/road_to_research.html
+      - title: "Pi Setup"
+        url: /stage_7_undergraduate/machine_learning/setup.html
+      - title: "Getting the code"
+        url: /stage_7_undergraduate/machine_learning/getting_code.html
+      - title: "Tensor Flow on Pi"
+        url: /stage_7_undergraduate/machine_learning/tf.html
+      - title: "Capturing new footage"
+        url: /stage_7_undergraduate/machine_learning/footage.html
+      - title: "Teachable machine"
+        url: /stage_7_undergraduate/machine_learning/teachable.html
+      - title: "Getting your work incoporated"
+        url: /stage_7_undergraduate/machine_learning/incorporating_code.html
+      - title: "Notifications"
+        url: /stage_7_undergraduate/machine_learning/notifications.html
+  - title: "Working Lunch - Mentors and Peers"
+    url: /stage_7_undergraduate/working_lunch.html
+stage8:
   - title: Postgraduate
     children:
       - title: "Introduction"
         url: /stage_8_postgraduate/introduction.html
       - title: "Macquarie Summer Scholarship Program"
         url: /stage_8_postgraduate/summer.html
-

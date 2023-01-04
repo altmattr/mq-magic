@@ -8,10 +8,6 @@ Project begin in January, run through Februrary. Students recieve $AUD7000 for 4
 
 Applications are open to any female or indigenous student who will complete a Computing, Information Technology, Science, Software Engineering, or related degree in the year they are applying or the year they are awarded the scholarship.
 
-# 2022 Projects
-
-Students interseted in applying should contact Matthew Roberts (matthew.roberts@mq.edu.au) before Jan 1 2022.
-
 ### Formal Methods for Control Systems with Dr Matthew Roberts
 
 _Awarded to Helene Cannon_

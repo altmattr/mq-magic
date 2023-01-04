@@ -23,10 +23,33 @@ kramdown:
   syntax_highlighter: rogue
 
 defaults:
-  # _docs
   - scope:
       path: ""
     values:
       layout: single
       sidebar:
-        nav: "workshops"
+        nav: "basic"
+  - scope:
+      path: "stage_5"
+    values:
+      layout: single
+      sidebar:
+        nav: "stage5"
+  - scope:
+      path: "stage_6"
+    values:
+      layout: single
+      sidebar:
+        nav: "stage6"
+  - scope:
+      path: "stage_7_undergraduate"
+    values:
+      layout: single
+      sidebar:
+        nav: "stage7"
+  - scope:
+      path: "stage_8_postgraduate"
+    values:
+      layout: single
+      sidebar:
+        nav: "stage8"
