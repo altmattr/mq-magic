@@ -1,10 +1,10 @@
 ---
-title: Macquarie Summer Scholarhips
+title: Macquarie Summer Scholarships
 ---
 
 An opportunity for outstanding graduating students to spend a summer working on research projects under the mentorship of computing academics.
 
-Project begin in January, run through Februrary. Students recieve $AUD7000 for 4 weeks work on-campus at an Australian University.
+Projects begin in January, run through Februrary. Students recieve $AUD7000 for 4 weeks work on-campus at an Australian University.
 
 Applications are open to any female or indigenous student who will complete a Computing, Information Technology, Science, Software Engineering, or related degree in the year they are applying or the year they are awarded the scholarship.
 
