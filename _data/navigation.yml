@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /
+  - title: Blog
+    url: /posts.html
   - title: "Stage 5"
     url: /stage_5/0_introduction.html
   - title: "Stage 6"
@@ -10,13 +12,6 @@ main:
   - title: "Postgrad"
     url: /stage_8_postgraduate/introduction.html
 basic:
-  - title: "Title"
-    image: "/assets/images/google_research.png"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: stage5
 stage5:
   - title: Stage 5
     children:
