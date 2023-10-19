@@ -12,6 +12,7 @@ tasks:
       curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh > install.sh
       bash install.sh
       source ~/.bashrc
+      nvm install 16
     command: |
       npm install -g firebase-tools
 # firebase login --no-localhost
