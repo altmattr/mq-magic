@@ -42,6 +42,12 @@ defaults:
       sidebar:
         nav: "stage6"
   - scope:
+      path: "stem_club"
+    values:
+      layout: single
+      sidebar:
+        nav: "stem_club"
+  - scope:
       path: "stage_7_undergraduate"
     values:
       layout: single

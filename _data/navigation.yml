@@ -7,6 +7,8 @@ main:
     url: /stage_5/0_introduction.html
   - title: "Stage 6"
     url: /stage_6/0_introduction.html
+  - title: "Stem Club"
+    url: /stem_club/0_introduction.html
   - title: "Undergrad"
     url: /stage_7_undergraduate/introduction.html
   - title: "Postgrad"
@@ -36,6 +38,13 @@ stage6:
         url: /stage_6/5_running_new_model.html
       - title: "Testing Your Model"
         url: /stage_6/6_testing_new_model.html
+stem_club:
+  - title: "Introduction"
+    url: /stem_club/0_introduction.html
+  - title: Worksheets
+    children:
+      - title: "Under Construction"
+        url: /stem_club/1_pi_introduction.html
 stage7:
   - title: "Introduction"
     url: /stage_7_undergraduate/introduction.html

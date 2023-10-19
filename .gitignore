@@ -22,3 +22,4 @@ Thumbs.db
 
 .jekyll-cache/
 _site/
+node_modules
