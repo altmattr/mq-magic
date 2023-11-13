@@ -38,17 +38,16 @@ Pre-requisite knowledge is:
  * basic computing skills
  * interest in computers, programming, or mechatronics
 
-Hardware required  is:
- * Raspberry Pi
+Hardware required (all provided by MQ) is:
+ * [Raspberry Pi](https://www.raspberrypi.org/)
  * SD card (with custom startup image)
- * Sense Hat
- * CSI camera
- * PC/Mac with USBA port and web camera
- * battery pack
+ * [Sense Hat](https://www.raspberrypi.com/documentation/accessories/sense-hat.html)
+ * [CSI camera](https://www.raspberrypi.com/products/camera-module-v2/)
+ * PC/Mac/ChromeBook/iPad with web camera
+ * battery pack/power bank
  * micro-usb cable
 
 Software Required (all freely available):
  * Web Browser
- * Putty(Windows) or Terminal(Mac)
- * CyberDuck
+ * [Termius](https://termius.com/)
 
