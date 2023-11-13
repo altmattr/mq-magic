@@ -22,3 +22,16 @@ body {
     width:300px;
     color:rgb(152,41,50);  // TODO: getting overriden by a navigation style.  Extreme cascading.
 }
+
+.task {
+    margin-top:40px;
+    margin-left:40px;
+    margin-bottom: 20px;
+    counter-increment: tasks-counter;
+  }
+  .task:before{
+    color:  #FF934F;
+    font-style: italic;
+    content: "☆ Task " counter(tasks-counter) ": ";
+    margin-left: -40px;
+  }

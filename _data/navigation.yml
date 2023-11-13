@@ -41,10 +41,21 @@ stage6:
 stem_club:
   - title: "Introduction"
     url: /stem_club/0_introduction.html
+    children:
+      - title: "Lab Book"
+        url: /lab_book/lab_book.html
+      - title: "Facilitator Guide"
+        url: /stem_club/facilitator.html
   - title: Worksheets
     children:
+      - title: "Teachable Machine"
+        url: /stem_club/1_teachable_machine.html
+      - title: "Building Models"
+        url: /stem_club/2_building_models.html
+      - title: "How Models Work"
+        url: /stem_club/3_how_models_work.html
       - title: "Under Construction"
-        url: /stem_club/1_pi_introduction.html
+        url: /stem_club/??.html
 stage7:
   - title: "Introduction"
     url: /stage_7_undergraduate/introduction.html
