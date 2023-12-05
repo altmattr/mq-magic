@@ -35,3 +35,14 @@ Grab a powerbank, look on it to see how many milliamps it is.  Plug in your pi, 
 In your lab book, note the time you got for your powerbank and the number of milliamps in your powerbank (I hope it was full when you started).
 
 ## reference list of commands
+
+  * **H**: Happy snaps - shows a low-res preview and pressing up will capture a picture
+  * **S**: Stream the video on the network
+  * **D**: Show how much disk space is left
+  * **N**: Show network details
+  * **R**: Make up a new network name (caution!)
+  * **B**: Switch to base mode (caution!)
+  * **F**: Switch to field mode (caution!)
+  * **T**: Capture training data
+  * **K**: Sync data (not implemented yet)
+  * **lower case letters**: AI models you can run.
