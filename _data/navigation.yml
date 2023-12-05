@@ -54,6 +54,14 @@ stem_club:
         url: /stem_club/2_building_models.html
       - title: "How Models Work"
         url: /stem_club/3_how_models_work.html
+      - title: "Building your Pi"
+        url: /stem_club/4_pi_setup.html
+      - title: "Startup your Pi"
+        url: /stem_club/5_firmware_and_power.html
+      - title: "Operating your Pi"
+        url: /stem_club/6_sensehat_control.html
+      - title: "Connect with Laptop"
+        url: /stem_club/7_pc_connection.html
       - title: "Under Construction"
         url: /stem_club/??.html
 stage7:

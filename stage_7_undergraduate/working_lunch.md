@@ -12,10 +12,11 @@ This activity is funded with support from the [Google exploreCSR program](https:
 
 Students, mentors, and professionals from the "Ready for Research" workshops meet-up once a year to maintain connections and discuss upcoming opportunities.
 
-{% include gallery caption="Working Lunch" %}
-## Summer 2022
+{% include gallery %}
 
-  * Friday 2nd Dec, 12noon
-  * Thai Pothong Restaurant, 294 King St, Newtown
+## Summer 2023
 
-To RSVP, contact Natasha Fernandes (natasha.fernandes@mq.edu.au).
+  * Monday 11th Dec, 12noon
+  * The Pumphouse at Darling Harbour
+
+To RSVP, contact Charanya Ramakrishnan (charanya.ramakrishnan@mq.edu.au).

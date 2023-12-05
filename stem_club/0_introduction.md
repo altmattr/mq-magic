@@ -13,8 +13,7 @@ The worskhop contains 16 worksheets, each of which take about 30 minutes to comp
   1. Build a model
   1. What is the model doing (aka how does AI work)?
   1. Setting up the hardware
-  1. Creating the firmware and Powering the Pi
-  1. Controlling the Pi from the SenseHat
+  1. Installing the firmware and Powering the Pi
   1. Connecting to the Pi
   1. Controlling the Pi via command line
   1. Trying existing models

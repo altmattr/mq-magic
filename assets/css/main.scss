@@ -18,9 +18,16 @@ body {
     font-size: 16px;
 }
 
-.site-title{
+.greedy-nav a.site-title{
     width:300px;
-    color:rgb(152,41,50);  // TODO: getting overriden by a navigation style.  Extreme cascading.
+    color:rgb(118,35,47);  // TODO: getting overriden by a navigation style.  Extreme cascading.
+}
+.greedy-nav a{
+    color:rgb(118,35,47);  // TODO: getting overriden by a navigation style.  Extreme cascading.
+}
+
+.sidebar {
+    color:rgb(118,35,47);
 }
 
 .task {
@@ -30,7 +37,7 @@ body {
     counter-increment: tasks-counter;
   }
   .task:before{
-    color:  #FF934F;
+    color:  rgb(198,0,126);
     font-style: italic;
     content: "☆ Task " counter(tasks-counter) ": ";
     margin-left: -40px;

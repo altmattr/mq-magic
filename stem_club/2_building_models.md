@@ -16,7 +16,10 @@ Each of you should have written a classification task you want to do in your lab
   * "Get Started"
   * Train an image project
 
-Pick a name for your model and make sure to "Save project to Google Drive". Write the name you chose in your lab book.
+#  Saving your model
+  * Go to the top left drop down menu and click on “Save project to Google Drive”.
+  * You will need to log into your google drive and click “select all” to allow Teachable Machines access to your drive.
+  * You will be prompted to choose a name for the project, write this name down in your lab book.
 
 {: .task}
 # Test your model
@@ -29,4 +32,4 @@ Try out the following variations:
 
 Note in your lab book which variants worked, and which ones did not.
 
-In the next workshop we will combine what we learned about the models to try and understand how AI models like this work under the hoo.
+In the next workshop we will combine what we learned about the models to try and understand how AI models like this work under the hood.
