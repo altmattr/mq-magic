@@ -19,7 +19,7 @@ Learn more about Raspberry Pi at these links below:
 
 # Installing the camera
 
-You have been supplied with a Pi "NoIR" camera module. The following animation (from the offical raspberry pi website) shows how to connect it.
+You have been supplied with a Pi camera module. The following animation (from the offical raspberry pi website) shows how to connect it.
 
 ![https://projects-static.raspberrypi.org/projects/getting-started-with-picamera/7ab130979e77e11eb977625713823e41ebe1ae64/en/images/connect-camera.gif](https://projects-static.raspberrypi.org/projects/getting-started-with-picamera/7ab130979e77e11eb977625713823e41ebe1ae64/en/images/connect-camera.gif)
 
