@@ -21,6 +21,8 @@ Each of you should have written a classification task you want to do in your lab
   * You will need to log into your google drive and click “select all” to allow Teachable Machines access to your drive.
   * You will be prompted to choose a name for the project, write this name down in your lab book.
 
+![save teachable machine model](/stem_club/imgs/save_teachable_machine_model.gif)
+
 {: .task}
 # Test your model
 

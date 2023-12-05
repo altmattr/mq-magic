@@ -11,7 +11,6 @@ This workshop was built with support from the [Google exploreCSR program](https:
 The worskhop contains 16 worksheets, each of which take about 30 minutes to complete with students expected to work independently in-between sessions:
   1. Teachable Machine
   1. Build a model
-  1. What is the model doing (aka how does AI work)?
   1. Setting up the hardware
   1. Installing the firmware and Powering the Pi
   1. Connecting to the Pi

@@ -52,16 +52,18 @@ stem_club:
         url: /stem_club/1_teachable_machine.html
       - title: "Building Models"
         url: /stem_club/2_building_models.html
-      - title: "How Models Work"
-        url: /stem_club/3_how_models_work.html
       - title: "Building your Pi"
-        url: /stem_club/4_pi_setup.html
+        url: /stem_club/3_pi_setup.html
       - title: "Startup your Pi"
-        url: /stem_club/5_firmware_and_power.html
-      - title: "Operating your Pi"
-        url: /stem_club/6_sensehat_control.html
-      - title: "Connect with Laptop"
-        url: /stem_club/7_pc_connection.html
+        url: /stem_club/4_firmware_and_power.html
+      - title: "Connecting to your Pi"
+        url: /stem_club/5_pc_connection.html
+      - title: "Controlling your Pi from your Laptop"
+        url: /stem_club/6_command_line.html
+      - title: "Running Existing Models"
+        url: /stem_club/7_existing_models.html
+      - title: "Collecting Training Data"
+        url: /stem_club/8_training_data.html
       - title: "Under Construction"
         url: /stem_club/??.html
 stage7:

@@ -34,6 +34,10 @@ Here we note "solutions" to the tasks and other tips.
 
 Students will not be programming in p5.js or ml5.js or really anything at all in this workshop.  We provide this video as our best introduction to teachable machine itself.
 
+## Building Models
+
+Students might make a machine that doesn't have a "nothing" category.  You should encourage them to add one.
+
 ## Firmware and Power
 
 In the next session after this one, ask students for the times they got - plot them on a chart!
