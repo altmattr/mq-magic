@@ -33,6 +33,13 @@ You have been supplied with a Pi camera module. The following animation (from th
 
 Route the camera cable under the sense hat.
 
+Do not use the cable slot in the sense piece. The cable should stay between the pi and sense hat poking out of the bottom.
+
+Follow the assembly as followed in the pictures below
+
+
+![https://photos.fife.usercontent.google.com/pw/ADCreHdoZK7zRuBplqIMhIwOaojOYMC_rno_SGiimt2t415ZQnPHWcMUPzBnLg=w858-h1526-s-no-gm?authuser=0.png](https://photos.fife.usercontent.google.com/pw/ADCreHdoZK7zRuBplqIMhIwOaojOYMC_rno_SGiimt2t415ZQnPHWcMUPzBnLg=w858-h1526-s-no-gm?authuser=0.png)
+
 SA's help!
 
 {: .task}
