@@ -19,12 +19,12 @@ You will have to keep going over the same thing over and over again.  For exampl
 
 ## Making a new image
 
-Before each new group, and perhaps if things go wrong, you will need to flash the SD cards fresh.  The latest image is available [here](https://github.com/mqjasper/mq-pi-gen/releases).  Please download the latest image (or a particular one if you know that is what you want) and flash it using the [raspbery pi imager](https://www.raspberrypi.com/software/).
+Before each new group, and perhaps if things go wrong, you will need to flash the SD cards fresh.  The latest image is available [here](https://github.com/mqjasper/mq-pi-gen/releases) from the repository used to build our custom images.  Please download the latest image (or a particular one if you know that is what you want) and flash it using the [raspbery pi imager](https://www.raspberrypi.com/software/).
 
 This image will boot with the following settings:
   * username: "pi"
-  * password: "stemclub"
-  * WiFi access point: "stemclub"
+  * password: "mqpi"
+  * WiFi access point: "stem_club"
   * WiFi password: "piisgood"
 
 # Worksheet Notes
@@ -44,8 +44,8 @@ In the next session after this one, ask students for the times they got - plot t
 
 ## PC connection
 
-When your laptop WiFi is connected to the Pi, it is not connected to the internet at all.  You had to disconnect from the internet to do that in the first place.  The Pi is also not connected to the internet, so nothing is anymore!
+When your laptop WiFi is connected to the Pi, it is not connected to the internet at all.  You had to disconnect from the internet to do that in the first place.  The Pi is also not connected to the internet, so nothing is any more!
 
 If you jump back on your normal WiFi you will be able to get to the internet, but not the Pi.
 
-If you are lucky enough to have a wired netowrk connection you can connect to both at once, but otherwise you have to do one at a time.  This is one reason to work in groups.  One person will normally connect their laptop to the Pi while everyone else stays connected to the internet for looking things up.
+If you are lucky enough to have a wired network connection you can connect to both at once, but otherwise you have to do one at a time.  This is one reason to work in groups.  One person will normally connect their laptop to the Pi while everyone else stays connected to the internet for looking things up.

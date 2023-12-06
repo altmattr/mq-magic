@@ -1,10 +1,10 @@
 ---
 title: Teachable Machine
 ---
-
+536
 We begin by learning about the AI creation tool [teachable machine](https://blog.google/technology/ai/teachable-machine/) from Google.
 
-Watch the following video from the Coding Train and then come back to answer the question in your log book.  Don't watch past 8 minutes and 56 seconds, we won't need any of that material.
+Watch the following video from the Coding Train and then come back to answer the question in your log book.  The video will stop after 8 minutes and 56 seconds, as you won't need anything past that point.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwcillcWOg0?si=SB9nguWkAAhees8Gstart%3D0&end=537" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -13,7 +13,7 @@ Watch the following video from the Coding Train and then come back to answer the
 {: .task}
 # Resources
 
-What do you need to have access to if you want to make your own AI  with teachable machine?
+What do you need to have access to if you want to make your own AI with teachable machine?
 
 {: .task}
 # Pick a task

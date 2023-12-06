@@ -6,7 +6,7 @@ Last workshop you learned [about teachable machine](1_teachable_machine.html).  
 
 # Group activity
 
-Please form into gropus of 2 or 3 for this workshop.
+Please form into groups of 2 or 3 for this workshop.
 
 Each of you should have written a classification task you want to do in your lab book.  Each group should choose one of these (or maybe combine different ideas) to complete in this workshop.
 
