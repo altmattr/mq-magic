@@ -37,10 +37,9 @@ Do not use the cable slot in the sense piece. The cable should stay between the 
 
 Follow the assembly as followed in the pictures below
 
+![The wrong way to install the camera](/stem_club/imgs/CameraWrong.png)
+![The right way to install the camera](/stem_club/imgs/CameraCorrect.png)
 
-![https://photos.fife.usercontent.google.com/pw/ADCreHdoZK7zRuBplqIMhIwOaojOYMC_rno_SGiimt2t415ZQnPHWcMUPzBnLg=w858-h1526-s-no-gm?authuser=0.png](https://photos.fife.usercontent.google.com/pw/ADCreHdoZK7zRuBplqIMhIwOaojOYMC_rno_SGiimt2t415ZQnPHWcMUPzBnLg=w858-h1526-s-no-gm?authuser=0.png)
-
-SA's help!
 
 {: .task}
 # Mounting the camera

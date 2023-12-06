@@ -16,7 +16,10 @@ SAs - get me a picture please
 
 # The rainbow of success
 
-SA's we want them to know when it is booting, pictures as well
+Once the pi is connected to the power bank, the SenseHat will display a rainbow screen while it boots. The SenseHat will then go blank before displaying the letter ‘K’.  Congratulations, your Pi is working
+
+![Rainbow of success](/stem_club/imgs/Rainbow.png)
+![After boot](/stem_club/imgs/Booted.png)
 
 # Controlling from the SenseHat
 
@@ -25,8 +28,6 @@ SA's we want them to know when it is booting, pictures as well
 ## left and right, click in and click out
 
 ## happy snaps
-
-## gyro demo? temp demo?
 
 {: .task}
 # How long does your Pi last on the powerbank

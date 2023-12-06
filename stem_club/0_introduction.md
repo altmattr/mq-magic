@@ -1,5 +1,5 @@
 ---
-title: Wildlife Identification via Machine Learning
+title: Machine Learning
 ---
 
 A workshop designed for students in years 9/10 which will teach technical skills, problem solving, creative use of programming, machine learning, and data stewardship.  Students will create an artificial intelligence that can identify wildlife in the field.  The AI model will be deployed on embedded hardware in the field.  Students will customise the AI based on their location and target species.  Students will learn the skills to interact directly with embedded hardware and deploy low-power, high-performance systems.
@@ -20,7 +20,7 @@ The worskhop contains 16 worksheets, each of which take about 30 minutes to comp
   1. Training your model online
   1. Loading a Model
   1. Testing the model
-  1. Collecting Data
+  1. Adjusting Model
   1. Field Trials
   1. Presenting Results
 
