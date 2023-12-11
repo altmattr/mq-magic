@@ -15,12 +15,12 @@ head_scripts:
   - h5p_standalone/main.bundle.js
 
 # Turn on built-in syntax highlighting.
-highlighter: rogue
+highlighter: rouge
 
 markdown: kramdown
 
 kramdown:
-  syntax_highlighter: rogue
+  syntax_highlighter: rouge
 
 defaults:
   - scope:

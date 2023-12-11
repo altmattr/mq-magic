@@ -2,6 +2,8 @@
 title: Facilitator Guide
 ---
 
+The [lesson plans](facilitator_lesson_plans.html) are available [here](facilitator_lesson_plans.html).
+
 Each session is designed to take about 30 minutes of class activity and for students to do some small amount of work themselves between sessions.
 
 Each session should go something like this:
