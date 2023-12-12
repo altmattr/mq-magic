@@ -17,6 +17,7 @@ The worskhop contains 16 worksheets, each of which take about 30 minutes to comp
   1. Controlling the Pi via command line
   1. Trying existing models
   1. Capturing Training Data
+  1. Categorising Training Data
   1. Training your model online
   1. Loading a Model
   1. Testing the model

@@ -32,22 +32,52 @@ This image will boot with the following settings:
 # Worksheet Notes
 Here we note "solutions" to the tasks and other tips.
 
-## Teachable Maching
+## 1 - Teachable Machine
 
 Students will not be programming in p5.js or ml5.js or really anything at all in this workshop.  We provide this video as our best introduction to teachable machine itself.
 
-## Building Models
+## 2 - Building Models
 
 Students might make a machine that doesn't have a "nothing" category.  You should encourage them to add one.
 
-## Firmware and Power
+## 3 - Building your Pi
+
+Using the standoffs on the "foating" edge of the sense hat is a good idea for stability.  It is relatively easy to bend the GPIO pins.
+
+## 4 - Firmware and Power
 
 In the next session after this one, ask students for the times they got - plot them on a chart!
 
-## PC connection
+Here is some data we collected
+
+| Capacity (Ah) | Time (mins) |
+|---------------|-------------|
+| 3.6           | 220         |
+| 4.0           | 210         |
+| 50.0          | 750         |
+
+## 5 - PC connection
 
 When your laptop WiFi is connected to the Pi, it is not connected to the internet at all.  You had to disconnect from the internet to do that in the first place.  The Pi is also not connected to the internet, so nothing is any more!
 
 If you jump back on your normal WiFi you will be able to get to the internet, but not the Pi.
 
 If you are lucky enough to have a wired network connection you can connect to both at once, but otherwise you have to do one at a time.  This is one reason to work in groups.  One person will normally connect their laptop to the Pi while everyone else stays connected to the internet for looking things up.
+
+## 6 - Controlling Pi
+
+Images on the Pi blur easily if you move the camera so avoid that if you want good images.
+
+The tiny images are the 8x8 images captured so we can show them on the sense-hat as a preview.
+
+## 7 - Existing Models
+
+The glasses model can be accurate when up close to people's faces but there are faces that it tends to struggle with.  All the training data was done with very close up photos so these are the only things it thinks are people.
+
+The numbers model only works well on whiteboards.  It works better with dark pens and when the camera is quite close.  Numbers out of it's range will often be reported as the wrong number instead of as "other".
+
+One of the learning outcomes here is that students see that models that work well (or not too bad) in one context are hopeless in other contexts.  Hopefully some of the students tried numbers in their notebooks or around the room and hopefully it was woefull at reading those.
+
+# 8 - Training Data
+
+At this point students will choose a model to try and train.  Be warned, colour is very important.  If the categories are all the same colour then the final model will probably be bad.  Shape is important, but colour seems to matter more.  Try to steer the students towards a model likely to work out well.
