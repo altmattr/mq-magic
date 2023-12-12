@@ -17,12 +17,14 @@ Learn more about Raspberry Pi at these links below:
     <li><a href="https://www.edureka.co/blog/raspberry-pi-tutorial/">https://www.edureka.co/blog/raspberry-pi-tutorial/</a></li>
 </ol>
 
+{: .activity}
 # Installing the camera
 
 You have been supplied with a Pi camera module. The following animation (from the offical raspberry pi website) shows how to connect it.
 
 ![https://projects-static.raspberrypi.org/projects/getting-started-with-picamera/7ab130979e77e11eb977625713823e41ebe1ae64/en/images/connect-camera.gif](https://projects-static.raspberrypi.org/projects/getting-started-with-picamera/7ab130979e77e11eb977625713823e41ebe1ae64/en/images/connect-camera.gif)
 
+{: .activity}
 # Installing the SenseHat
 
 ![https://projects-static.raspberrypi.org/projects/rpi-sensehat-attach/30c0dd9046c8a53d14eed6116f66feef5b31cada/en/images/sensehat-parts.png](https://projects-static.raspberrypi.org/projects/rpi-sensehat-attach/30c0dd9046c8a53d14eed6116f66feef5b31cada/en/images/sensehat-parts.png)
