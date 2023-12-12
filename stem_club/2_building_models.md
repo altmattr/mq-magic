@@ -12,6 +12,7 @@ Each of you should have written a classification task you want to do in your lab
 
 {: .task}
 # Make a model
+  * Using the computer of the group member whose Google account you will save the model to: 
   * Head over to [teachable machine](https://teachablemachine.withgoogle.com/)
   * "Get Started"
   * Train an image project
