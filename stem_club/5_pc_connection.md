@@ -28,6 +28,9 @@ Connect to the network, the password will be "piisgood".
 
 ### Note for windows users
 
+On windows you may get an error when entering the password.  In this case click "Connect using a security key instead" and enter the password there.
+
+
 # Stream Video
 
 Using the sense hat interface, start streaming the video with the "S" command.

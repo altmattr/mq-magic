@@ -62,6 +62,10 @@ stem_club:
         url: /stem_club/6_command_line.html
       - title: "Running Existing Models"
         url: /stem_club/7_existing_models.html
+      - title: "Collecting Training Data"
+        url: /stem_club/8_training_data.html
+      - title: "Categorising Training Data"
+        url: /stem_club/8a_categorising_data.html
       - title: "Training a new AI"
         url: /stem_club/9_training.html
       - title: "Adding Model to Pi"
@@ -71,7 +75,7 @@ stem_club:
       - title: "Data Collection"
         url: /stem_club/12_data_collection.html
       - title: "Field Trials"
-        url: /stem_club/13_trails.html
+        url: /stem_club/13_trials.html
       - title: "Presenting your Results"
         url: /stem_club/14_results.html
 stage7:

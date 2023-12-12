@@ -25,9 +25,28 @@ Once the pi is connected to the power bank, the SenseHat will display a rainbow 
 
 ## how to hold
 
+The Pi Operates in "portrait mode" with the leds towards the bottom
+
+![Front of Pi](/stem_club/imgs/Pi_Front.png)
+![Back of Pi](/stem_club/imgs/Pi_Back.png)
+
 ## left and right, click in and click out
 
+The tiny "joystick" towards the right of the sense hat is how you control the Pi.
+
+  * Left and right will move between commands
+  * Push in will execute command or exit command (if one is running)
+  * Up will take a picture in happy snap mode
+
+![Joystick location](/stem_club/imgs/JoystickLabel.png)
+
 ## happy snaps
+
+Start the camera mode (which is called "Happy Snaps") by pressing the moving left or right until you see the "H", then clicking in on the joystick.
+
+The sense hat will display a very low resolution preview of the camera view - try it out to convince yourself.
+
+Pressing up on the joystick will capture an image just like hitting the shutter button on a camera.
 
 {: .task}
 # How long does your Pi last on the powerbank
