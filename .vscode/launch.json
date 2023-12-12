@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Codespace build",
+        "preLaunchTask": "codespace jekyll"
+      },
+      {
+        "type": "chrome",
+        "request": "attach",
+        "name": "Build",
+        "preLaunchTask": "jekyll"
+      }
+    ]
+  }

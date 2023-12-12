@@ -2,12 +2,14 @@
 title: Adding firmware and powering and using
 ---
 
+{: .activity}
 # Get an SD card
 
 Your facilitator will give you a stemclub firmware card.  Put the SD card into the Pi
 
 ![put the SD card into the PI](https://projects-static.raspberrypi.org/projects/raspberry-pi-setting-up/94c43714c0e0536158409093ba28931e0fa5c9bc/en/images/pi-sd.png)
 
+{: .activity}
 # Add Power to the Pi
 
 Your Pi can be powered from a wall wart or from a powerbank. 
@@ -21,6 +23,7 @@ Once the pi is connected to the power bank, the SenseHat will display a rainbow 
 ![Rainbow of success](/stem_club/imgs/Rainbow.png)
 ![After boot](/stem_club/imgs/Booted.png)
 
+{: .activity}
 # Controlling from the SenseHat
 
 ## how to hold

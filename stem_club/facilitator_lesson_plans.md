@@ -45,7 +45,7 @@ Resources required for this lesson:
 * Google account (1 per group)
 * Lab book (each student)
 
-# [Lesson 3: Building Your Pi](#lesson-2)
+# [Lesson 3: Building Your Pi](#lesson-3)
 ## Activity Sequence
 
 | **Activity** | **Strategies** | **Time needed** | **Description** |
@@ -54,6 +54,22 @@ Resources required for this lesson:
 | Activity 1 | Group work | 5 minutes | In their groups, students will attach the camera module to their raspberry pi. They should use the mq-magic site for instructional aids if needed. |
 | Activity 2 | Group work | 8 minutes | Once the camera is correctly attached to the pi, students can then move onto attaching the sense hat again using the mq-magic site for instructional aids. |
 | Task 1 | Group work | Rest of lesson | Students should be reminded at this point to ensure that the camera cable is not routed through the slot on the sense hat. The rest of the session should be spent with students working to mount the camera in a way that allows total access to the sense hat while ensuring the camera is in the correct orientation. |
+
+## Criteria for/Indicators of success
+* Students demonstrate the ability to correctly attach provided components to the raspberry pi
+* Students use their understanding of provided components and functionality to mount the camera in a way that allows full functionality and maintains the correct orientation of the camera
+
+## Required resources for lesson 
+* Raspberry pi, sense hat, camera module (1 set per group)
+* Laptop (1 per group)
+
+# [Lesson 4: Startup Your Pi](#lesson-4)
+## Activity Sequence
+
+| **Activity** | **Strategies** | **Time needed** | **Description** |
+|--------------|----------------|-----------------|-----------------|
+| Distributing microSD cards, power supply | Whole class | 5 minutes | This session should begin with one student from each group collecting a microSD preinstalled with the mqpi operating system for their raspberry pi and a powerbank or wall power supply to use with their pi. |
+| Powering the raspberry pi | Groups | 2 minutes | |
 
 ## Criteria for/Indicators of success
 * Students demonstrate the ability to correctly attach provided components to the raspberry pi
