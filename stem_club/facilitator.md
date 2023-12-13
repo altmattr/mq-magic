@@ -66,7 +66,7 @@ If you are lucky enough to have a wired network connection you can connect to bo
 
 ## 6 - Controlling Pi
 
-Images on the Pi blur easily if you move the camera so avoid that if you want good images.
+Images on the Pi blur easily if you move the camera so avoid that if you want good images. If all images turn out blurry, you may want to adjust your focal lens by twisting the lens on the camera module using the provided lens tool.
 
 The tiny images are the 8x8 images captured so we can show them on the sense-hat as a preview.
 
@@ -74,10 +74,12 @@ The tiny images are the 8x8 images captured so we can show them on the sense-hat
 
 The glasses model can be accurate when up close to people's faces but there are faces that it tends to struggle with.  All the training data was done with very close up photos so these are the only things it thinks are people.
 
-The numbers model only works well on whiteboards.  It works better with dark pens and when the camera is quite close.  Numbers out of it's range will often be reported as the wrong number instead of as "other".
+The numbers model only works well on whiteboards.  It works better with dark pens and when the camera is quite close.  Numbers out of it's range (0-5) will often be reported as the wrong number instead of as "other".
+
+The nature models from training are available on Teams under the following path name:  Documents/General/stem club/models/nature models.
 
 One of the learning outcomes here is that students see that models that work well (or not too bad) in one context are hopeless in other contexts.  Hopefully some of the students tried numbers in their notebooks or around the room and hopefully it was woefull at reading those.
 
-# 8 - Training Data
+## 8 - Training Data
 
 At this point students will choose a model to try and train.  Be warned, colour is very important.  If the categories are all the same colour then the final model will probably be bad.  Shape is important, but colour seems to matter more.  Try to steer the students towards a model likely to work out well.
