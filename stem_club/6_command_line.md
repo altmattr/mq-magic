@@ -4,13 +4,13 @@ title: Controlling the Pi from the Command Line
 
 # Install Termius
 
-[Termius](https://termius.com/) is a program that will let us "hack" the Pi.  [Download it and install it to your computer](https://termius.com/).  Open Termius
+[Termius](https://termius.com/) is a program that will let us "hack" the Pi.  [Download it and install it to your computer](https://termius.com/download/windows).  Open Termius
 
 ## Note:  You need to be connected to the internet for this!
 
 # Add your Pi as a host
 
-Disconnect from the internet, connect to your Pis network and Open Termius
+Disconnect from the internet, connect to your Pi's network and open Termius
 
 Add a new host with these settings
 

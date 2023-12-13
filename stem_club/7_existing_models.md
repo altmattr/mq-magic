@@ -10,8 +10,7 @@ As before, connect to your Pi's WiFi and use open Termius
 
 This time use the "Hosts" section to connect.  You will be shown a screen full of text
 
-![Termius Hosts Section option](/stem_club/imgs/TermiusHostsSection.png) 
-![Termius Hosts Section Command Window](/stem_club/imgs/TermiusHostsSection2.png)
+![commandLine](/stem_club/imgs/commandLine.png)
 
 This is "command line" access to your Pi and gives you complete control.  In this spot you will run commands that do advanced things.  They can be hard to remember, so write them down if you need.
 

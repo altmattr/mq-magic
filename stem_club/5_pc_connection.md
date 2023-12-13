@@ -33,11 +33,9 @@ On windows you may get an error when entering the password.  In this case click 
 
 # Stream Video
 
-Using the sense hat interface, start streaming the video with the "S" command.
-
-gif please
-
-On your computer, **making sure you are connected to the access point**, go to "stemclub.local:8000" in your web browser.  You should see the camera stream from your Pi.
+* Using the sense hat interface, start streaming the video with the "S" command.
+* On your computer, **Make sure you are connected to the access point**
+* Go to "stemclub.local:8000" in your web browser.  You should see the camera stream from your Pi.
 
 {: .task}
 ## No Internet?
