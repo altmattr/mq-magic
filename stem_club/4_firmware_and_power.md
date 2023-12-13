@@ -43,7 +43,7 @@ The tiny "joystick" towards the right of the sense hat is how you control the Pi
 
 ![Joystick location](/stem_club/imgs/JoystickLabel.png)
 
-## happy snaps
+## Happy Snaps
 
 Start the camera mode (which is called "Happy Snaps") by pressing the moving left or right until you see the "H", then clicking in on the joystick.
 

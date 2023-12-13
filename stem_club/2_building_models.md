@@ -32,10 +32,10 @@ Each of you should have written a classification task you want to do in your lab
 # Test your model
 
 Try out the following variations:
- * move to a different location
- * try holding the item in a different orientation
- * have different people holding the items
- * try variants of the items
+ * Move to a different location
+ * Try holding the item in a different orientation
+ * Have different people holding the items
+ * Try variants of the items
 
 Note in your lab book which variants worked, and which ones did not.
 
