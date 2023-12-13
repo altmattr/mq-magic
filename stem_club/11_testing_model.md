@@ -10,7 +10,7 @@ Make sure your pi is connected to a battery for power and go try it out!
 # Be more careful with your testing and note down the details
 Take notes on how accurate your model is.  Each step is:
   * Point the camera at something
-  * Check was it's guess was
+  * Check what it's guess was
   * Write down what it was pointed at and what it's guess was.
 
 Repeat this process over and over to create a table something like this

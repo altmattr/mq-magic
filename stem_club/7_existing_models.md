@@ -30,7 +30,7 @@ Take a look at termius - you should see detailed information being shown about h
 
 # Start the numbers model
 
-Do the same for the numbers model, which is started with command "n".  This model tries to read numbers (fromo 0 to 5 only!)
+Do the same for the numbers model, which is started with command "n".  This model tries to read numbers (from 0 to 5 only!)
 
 
 {: .task}

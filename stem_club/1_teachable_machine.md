@@ -17,7 +17,9 @@ What do you need to have access to if you want to make your own AI with teachabl
 
 {: .task}
 # Pick a task
-Pick a recognition task that you would like to do in the next session.  Write it down in your lab book and make a prediction about how many training images you will need.  Go back and watch how many Daniel did to get an idea.  
+Pick a recognition task that you would like to do in the next session and make a prediction about how many training images you will need. Go back and watch how many Daniel did to get an idea.  
+
+Make sure you write it down in your lab book
 
 We will train a model in the next workshop based on your answer to task 2.  At least one person in each group will need to have a google account they can use to save their models.
 
