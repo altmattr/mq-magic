@@ -15,4 +15,7 @@ Take notes on how accurate your model is.  Each step is:
 
 Repeat this process over and over to create a table something like this
 
+![ResultsTable](/stem_club/imgs/testingTable.jpg)
+
+
 
