@@ -2,7 +2,23 @@
 title: Machine Learning
 ---
 
-A workshop designed for students in years 9/10 which will teach technical skills, problem solving, creative use of programming, machine learning, and data stewardship.  Students will create an artificial intelligence that can identify wildlife in the field.  The AI model will be deployed on embedded hardware in the field.  Students will customise the AI based on their location and target species.  Students will learn the skills to interact directly with embedded hardware and deploy low-power, high-performance systems.
+**Welcome to the G2G STEM Club**
+
+The G2G STEM Club introduces Artificial Intelligence (AI) and machine learning through a series of workshops designed for high school students in Year 9 and 10.
+
+In this series of workshops you will learn technical skills, problem solving, machine learning and data stewardship (management and oversight of data). You will use your knowledge of machine learning to create an artificial intelligence (AI) that can identify wildlife in the field.
+
+You will have access to this site and the associated resources for 12 months from the date of commencement.
+
+## What is Artificial Intelligence (AI)?
+
+AI is a collection of technologies that allow computer systems to perform tasks normally requiring human intelligence. These tasks include recognizing images, forming strategies and much more.
+
+## What is machine learning?
+
+Machine learning is a subset of AI. It involves the use and development of computer systems that can learn and adapt without following explicit instructions, by using algorithms (a set of rules to be followed in problem-solving operations) and statistical models to analyse and draw inferences (conclusions) from patterns in data.
+
+## Details
 
 This workshop was built with support from the [Google exploreCSR program](https://research.google/outreach/explore-csr/), [TensorFlow](https://blog.tensorflow.org/2022/02/exploreCSR-awards-highlights.html) and the NSW Government.
 

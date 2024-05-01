@@ -1,7 +1,6 @@
 ---
 title: Teachable Machine
 ---
-536
 We begin by learning about the AI creation tool [teachable machine](https://blog.google/technology/ai/teachable-machine/) from Google.
 
 Watch the following video from the Coding Train and then come back to answer the question in your log book.  The video will stop after 8 minutes and 56 seconds, as you won't need anything past that point.
