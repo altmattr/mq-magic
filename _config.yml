@@ -1,5 +1,5 @@
 # Overall title for pages.
-title: "Macquarie University School of Computing Support for Under-represented Groups in Computing"
+title: "Stem Club"
 
 # Email address, no mailto:
 email: "matthew.roberts@mq.edu.au"
@@ -18,6 +18,8 @@ head_scripts:
 highlighter: rouge
 
 markdown: kramdown
+
+logo: "/assets/images/logo.png"
 
 kramdown:
   syntax_highlighter: rouge

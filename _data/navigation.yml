@@ -1,18 +1,10 @@
 main:
   - title: "About"
     url: /
-  - title: Blog
-    url: /posts.html
-  - title: "Stage 5"
-    url: /stage_5/0_introduction.html
-  - title: "Stage 6"
-    url: /stage_6/0_introduction.html
-  - title: "Stem Club"
+  - title: "Worksheets"
     url: /stem_club/0_introduction.html
-  - title: "Undergrad"
-    url: /stage_7_undergraduate/introduction.html
-  - title: "Postgrad"
-    url: /stage_8_postgraduate/introduction.html
+  - title: "Stem Club for All"
+    url: spiel.html
 basic:
 stage5:
   - title: Stage 5
